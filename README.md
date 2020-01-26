@@ -1,2 +1,2 @@
 # askMe
-JS practice, Firebase
+JS practice, Firebase jspractice-app.web.app
